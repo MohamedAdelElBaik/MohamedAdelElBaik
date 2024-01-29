@@ -28,6 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -96,7 +97,9 @@
       height="40"
     />
   </a>
+  </div>
 
+<div>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
     style="background-color:#282c34; padding: 5px"
@@ -124,8 +127,10 @@
       height="40"
     />
   </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  </div>
+
+  <div>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
     style="background-color:#282c34; padding: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -152,8 +157,6 @@
       height="40"
     />
   </a>
-  
-  
-  
+  </div>
   
 </p>
